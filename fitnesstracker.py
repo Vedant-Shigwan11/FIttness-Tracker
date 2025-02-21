@@ -39,7 +39,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 st.markdown(
-    "<h1 style='text-align: center; font-family: Arial; font-weight: bold; color: #FFA07A;'>🏋️ Personal Fitness Tracker</h1>", 
+    "<h1 style='text-align: center; font-family: Arial; font-weight: bold; color: #FFA07A;'>🏋️ Personal Fitness Tracker 🏋️</h1>", 
     unsafe_allow_html=True
 )
 
