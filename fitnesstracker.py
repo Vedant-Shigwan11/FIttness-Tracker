@@ -38,7 +38,7 @@ st.markdown("""
     </style>
 """, unsafe_allow_html=True)
 
-st.markdown("<h1 style='text-align: center; font-family: Arial; font-weight: bold;'>🏋️ Personal Fitness Tracker</h1>", unsafe_allow_html=True)
+st.markdown("<h1 style='text-align: center; font-family: Arial; font-weight: bold; color: hue'>🏋️ Personal Fitness Tracker</h1>", unsafe_allow_html=True)
 
 # Workout Entry Section
 st.markdown("<p class='sub-title'>Add New Workout</p>", unsafe_allow_html=True)
